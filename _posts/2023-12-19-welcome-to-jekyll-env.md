@@ -62,6 +62,12 @@ categories: jekyll
 
 <br>
 
+上記が完了したら以下コマンドを実行  
+
+```bundle install```  ...Gemfileを参照して依存関係を解決  
+
+<br>
+
 #### **_config.yml**
 ---
 
@@ -82,12 +88,6 @@ github_username:  [★githubアカウント名]
 ```
 
 
-
-<br>
-
-上記が完了したら以下コマンドを実行  
-
-```bundle install```  ...Gemfileを参照して依存関係を解決  
 
 <br>
 
